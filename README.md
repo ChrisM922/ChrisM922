@@ -1,3 +1,4 @@
+<img align="center" alt="bannder" href="https://im4.ezgif.com/tmp/ezgif-4-36f98c8ed0.gif" />
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Chris Mace </h1>
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a passionate, software developer. My aim is to make people's lives better & easier by developing applications and websites. I am currently in an internship for application development in Germany and hope to expand my programming skills. I mostly focus on Front-End skills but wish to eventually delve deeper into Full-Stack develpment. My general focus is JavaScript, but I hope to also learn Java, Python and TypeScript. 
