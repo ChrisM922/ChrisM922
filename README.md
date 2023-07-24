@@ -1,4 +1,4 @@
-<img align="center" alt="bannder" width="100%" src="https://im4.ezgif.com/tmp/ezgif-4-370113a133.gif" />
+<img align="center" alt="bannder" width="100%" src="https://im4.ezgif.com/tmp/ezgif-4-02aa84ca2f.gif" />
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 About Me </h1>
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a passionate software developer from Germany. My aim is to make people's lives better & easier by developing applications and websites. I am currently in an internship for application development, and hope to expand my programming skills. I mostly focus on Front-End skills but wish to eventually delve deeper into Full-Stack develpment. My general focus is JavaScript and PHP, but I hope to also learn MongoDB, SQLite, Firebase, Google Cloud, Java, Python and TypeScript. 
