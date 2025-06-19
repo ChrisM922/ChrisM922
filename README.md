@@ -1,3 +1,4 @@
+
 <img align="center" alt="banner" width="100%" height="450px" src="https://github.com/ChrisM922/ChrisM922/blob/e7257615099264f2452dd48ca28cf97428577950/GithubProfileBanner.gif" />
 
 # 👋 Hi, I'm Christopher Mace
@@ -44,7 +45,6 @@ I'm a Fullstack Web Developer from Germany with a strong interest in building pr
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChrisM922&show_icons=true&theme=algolia&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChrisM922&theme=dark&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisM922&layout=compact&theme=algolia&border_radius=10" alt="Top Languages" />
 </p>
 
