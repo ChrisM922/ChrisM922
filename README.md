@@ -1,5 +1,5 @@
 
-<img align="center" alt="banner" width="100%" height="450px" src="https://github.com/ChrisM922/ChrisM922/blob/e7257615099264f2452dd48ca28cf97428577950/assets/GithubProfileBanner.gif" />
+<img align="center" alt="banner" width="100%" height="450px" src="assets/GithubProfileBanner.gif" />
 
 # 👋 Hi, I'm Christopher Mace
 
@@ -26,17 +26,17 @@ I'm a Fullstack Web Developer from Germany with a strong interest in building pr
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" alt="Next.js"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" alt="TypeScript"/> 
-<img src="https://github.com/ChrisM922/ChrisM922/blob/e7257615099264f2452dd48ca28cf97428577950/assets/tailwind-css.svg" width="30" alt="Tailwind CSS" style="background: #fff; border-radius: 6px; padding: 2px;"/>
+<img src="assets/tailwind-css.svg" width="30" alt="Tailwind CSS" style="background: #fff; border-radius: 6px; padding: 2px;"/>
 
 **Backend & DB**:  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/> 
-<img src="https://github.com/ChrisM922/ChrisM922/blob/e7257615099264f2452dd48ca28cf97428577950/assets/flask-original.svg" width="30" style="background: #fff; border-radius: 6px; padding: 2px;"/> 
+<img src="assets/flask-original.svg" width="30" style="background: #fff; border-radius: 6px; padding: 2px;"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/>
 
 **DevOps & Tools**:  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/> 
-<img src="https://github.com/ChrisM922/ChrisM922/blob/e7257615099264f2452dd48ca28cf97428577950/assets/github-original.svg" width="30" style="background: #fff; border-radius: 6px; padding: 2px;"/> 
+<img src="assets/github-original.svg" width="30" style="background: #fff; border-radius: 6px; padding: 2px;"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/> 
 
 ---
