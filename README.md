@@ -44,7 +44,7 @@ I'm a Fullstack Web Developer from Germany with a strong interest in building pr
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChrisM922&show_icons=true&theme=algolia&border_radius=10" alt="GitHub Stats" />
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChrisM922&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChrisM922&theme=dark&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisM922&layout=compact&theme=algolia&border_radius=10" alt="Top Languages" />
 </p>
 
