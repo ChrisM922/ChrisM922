@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Christopher Mace
 
-I'm a Fullstack Web Developer from Germany with a strong interest in building practical, meaningful web tools — with or without AI.
+I'm a Fullstack Web Developer from Germany with a strong interest in building practical, meaningful web tools
 
 - 🧠 Passionate about clean, modern code and usable software
 - 🛠️ Working mostly with React, Next.js, Supabase, and TypeScript
