@@ -30,7 +30,7 @@ I'm a Fullstack Web Developer from Germany with a strong interest in building pr
 
 **Backend & DB**:  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/> 
-<img src="https://github.com/ChrisM922/ChrisM922/blob/main/assets/flask-original.svg" width="30" style="background: #fff; border-radius: 6px; padding: 2px;"/> 
+<img src="https://github.com/ChrisM922/ChrisM922/blob/main/assets/flask-original.png" width="30" style="background: #fff; border-radius: 6px; padding: 2px;"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/>
 
